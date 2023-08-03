@@ -55,6 +55,7 @@
         <actionName>Delete</actionName>
         <formFactor>Small</formFactor>
         <type>Default</type>
+        
     </actionOverrides>
     <actionOverrides>
         <actionName>Edit</actionName>
